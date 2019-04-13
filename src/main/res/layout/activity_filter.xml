@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <!--<LinearLayout-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:gravity="center_vertical"-->
+        <!--android:orientation="horizontal"-->
+        <!--android:padding="3dp">-->
+
+        <!--<LinearLayout-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:padding="3dp"-->
+            <!--android:orientation="vertical">-->
+
+
+            <!--<TextView-->
+                <!--android:id="@+id/textView29"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_weight="1"-->
+                <!--android:text="@string/male_events"-->
+                <!--android:textSize="20sp" />-->
+
+            <!--<TextView-->
+                <!--android:id="@+id/textView27"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_weight="1"-->
+                <!--android:text="@string/gender_events_description" />-->
+
+
+        <!--</LinearLayout>-->
+
+        <!--<RelativeLayout-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_weight="1">-->
+
+            <!--<Switch-->
+                <!--android:id="@+id/male_events_switch"-->
+                <!--android:layout_width="62dp"-->
+                <!--android:layout_height="33dp"-->
+                <!--android:layout_alignParentTop="true"-->
+                <!--android:layout_alignParentEnd="true"-->
+                <!--android:layout_alignParentRight="true"-->
+                <!--android:layout_marginTop="0dp"-->
+                <!--android:layout_marginEnd="25dp"-->
+                <!--android:layout_marginRight="25dp"-->
+                <!--android:checked="true" />-->
+        <!--</RelativeLayout>-->
+
+    <!--</LinearLayout>-->
+
+    <!--<View-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="2dp" />-->
+
+    <!--<LinearLayout-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:gravity="center_vertical"-->
+        <!--android:orientation="horizontal"-->
+        <!--android:padding="3dp">-->
+
+        <!--<LinearLayout-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:padding="3dp"-->
+            <!--android:orientation="vertical">-->
+
+
+            <!--<TextView-->
+                <!--android:id="@+id/textView26"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_weight="1"-->
+                <!--android:text="@string/female_events"-->
+                <!--android:textSize="20sp" />-->
+
+            <!--<TextView-->
+                <!--android:id="@+id/textView25"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_weight="1"-->
+                <!--android:text="@string/gender_events_description" />-->
+
+
+        <!--</LinearLayout>-->
+
+        <!--<RelativeLayout-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_weight="1">-->
+
+            <!--<Switch-->
+                <!--android:id="@+id/female_events_switch"-->
+                <!--android:layout_width="62dp"-->
+                <!--android:layout_height="33dp"-->
+                <!--android:layout_alignParentTop="true"-->
+                <!--android:layout_alignParentEnd="true"-->
+                <!--android:layout_alignParentRight="true"-->
+                <!--android:layout_marginTop="0dp"-->
+                <!--android:layout_marginEnd="25dp"-->
+                <!--android:layout_marginRight="25dp"-->
+                <!--android:checked="true" />-->
+        <!--</RelativeLayout>-->
+
+    <!--</LinearLayout>-->
+
+    <!--<View-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="2dp" />-->
+
+    <!--<LinearLayout-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:gravity="center_vertical"-->
+        <!--android:orientation="horizontal"-->
+        <!--android:padding="3dp">-->
+
+        <!--<LinearLayout-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:padding="3dp"-->
+            <!--android:orientation="vertical">-->
+
+
+            <!--<TextView-->
+                <!--android:id="@+id/textView24"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_weight="1"-->
+                <!--android:text="@string/father_filter"-->
+                <!--android:textSize="20sp" />-->
+
+            <!--<TextView-->
+                <!--android:id="@+id/textView23"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_weight="1"-->
+                <!--android:text="@string/father_filter_des" />-->
+
+
+        <!--</LinearLayout>-->
+
+        <!--<RelativeLayout-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_weight="1">-->
+
+            <!--<Switch-->
+                <!--android:id="@+id/father_events_switch"-->
+                <!--android:layout_width="62dp"-->
+                <!--android:layout_height="33dp"-->
+                <!--android:layout_alignParentTop="true"-->
+                <!--android:layout_alignParentEnd="true"-->
+                <!--android:layout_alignParentRight="true"-->
+                <!--android:layout_marginTop="0dp"-->
+                <!--android:layout_marginEnd="25dp"-->
+                <!--android:layout_marginRight="25dp"-->
+                <!--android:checked="true" />-->
+        <!--</RelativeLayout>-->
+
+    <!--</LinearLayout>-->
+
+    <!--<View-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="2dp" />-->
+
+    <!--<LinearLayout-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:gravity="center_vertical"-->
+        <!--android:orientation="horizontal"-->
+        <!--android:padding="3dp">-->
+
+        <!--<LinearLayout-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:padding="3dp"-->
+            <!--android:orientation="vertical">-->
+
+
+            <!--<TextView-->
+                <!--android:id="@+id/textView21"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_weight="1"-->
+                <!--android:text="@string/mother_filter"-->
+                <!--android:textSize="20sp" />-->
+
+            <!--<TextView-->
+                <!--android:id="@+id/textView20"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_weight="1"-->
+                <!--android:text="@string/mother_filter_des" />-->
+
+
+        <!--</LinearLayout>-->
+
+        <!--<RelativeLayout-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_weight="1">-->
+
+            <!--<Switch-->
+                <!--android:id="@+id/mother_events_switch"-->
+                <!--android:layout_width="62dp"-->
+                <!--android:layout_height="33dp"-->
+                <!--android:layout_alignParentTop="true"-->
+                <!--android:layout_alignParentEnd="true"-->
+                <!--android:layout_alignParentRight="true"-->
+                <!--android:layout_marginTop="0dp"-->
+                <!--android:layout_marginEnd="25dp"-->
+                <!--android:layout_marginRight="25dp"-->
+                <!--android:checked="true" />-->
+        <!--</RelativeLayout>-->
+
+    <!--</LinearLayout>-->
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp" />
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/filter_recycler">
+    </android.support.v7.widget.RecyclerView>
+
+</LinearLayout>
